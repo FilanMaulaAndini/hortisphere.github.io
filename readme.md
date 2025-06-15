@@ -144,21 +144,41 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 ## 📦 Getting Started
 
+### 1. Clone the repo
 
-###1. Clone the repo
 ```bash
+
 git clone https://github.com/FilanMaulaAndini/promotional-task-ui
+
 cd promotional-task-ui
 
-###2. Install dependencies
+```
+
+### 2. Install dependencies
+
+```bash
+
 npm install
+
 # or
+
 yarn
 
-###3. Start development server
+```
+
+### 3. Start development server
+
+```bash
+
 npm run dev
+
 # or
+
 yarn dev
 
-Visit: http://localhost:5173
+```
+
+Visit: [http://localhost:5173](http://localhost:5173)
+
+```
 
