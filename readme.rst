@@ -68,3 +68,29 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+## 📦 Getting Started
+
+*******************
+1. Clone the repo
+*******************
+```bash
+git clone https://github.com/FilanMaulaAndini/promotional-task-ui
+cd promotional-task-ui
+
+*******************
+2. Install dependencies
+*******************
+npm install
+# or
+yarn
+
+*******************
+3. Start development server
+*******************
+npm run dev
+# or
+yarn dev
+
+Visit: http://localhost:5173
